@@ -1,0 +1,10 @@
+[package]
+name = "first"
+version = "0.1.0"
+authors = ["fishbowl <icew4ll.io>"]
+
+[dependencies]
+duct = "0.10.0"
+dotenv_codegen = "0.11.0"
+chrono = "0.4.4"
+clap = "2.32.0"
